@@ -6,8 +6,8 @@
 
 **案例** 
 
-<img src="image/01.jpg" height="200px"/><br/>
-<img src="image/02.jpg" height="200px"/>
+<img src="image/01.jpg" height="350px"/><br/>
+<img src="image/02.jpg" height="350px"/>
 ### 1.2.计算机视觉 ###
 **向人一样看懂世界**
 ### 1.3.自然语言处理 ###
